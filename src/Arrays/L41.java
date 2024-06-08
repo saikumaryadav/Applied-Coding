@@ -18,7 +18,7 @@ public class L41 {
         int[] arr = {1,2,3};
         System.out.println(firstMissingPositiveOptimized(arr));
 
-       // System.out.println(firstMissingPositive(arr));
+       // System.out.println(firstMissingPositive(arr)); 
     }
 
     public static int firstMissingPositive(int[] nums) {
